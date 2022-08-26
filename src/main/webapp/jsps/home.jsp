@@ -10,8 +10,11 @@
 </head>
 <body>
 <h1 align="center">Welcome to PREMIUM INVESTMENT, CHANDRAPUR, MAHARASHTRA </h1>
-<h1 align="center"> Premium Investment is  Very Good and Best Broking center for Investor and Traders. Also provide good tips and new Strategy </h1>
-<hr>
+<h1 align="center"> Premium Investment is  Very Good and Best Broking center for Investor and Traders. Also provide good tips and new Strategy. </h1>
+<h1 align="center"> Also Provide Analyst for 24/7 regarding shares details and tips. </h1>
+<h1 align="center"> Our Full Time Available Analyst Name- Shri, Kishor Shikare (A.B.M) And Shri, Santosh Goliwar (A.B.M). </h1>	
+
+	<hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
 
