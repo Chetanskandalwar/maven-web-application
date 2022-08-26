@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1 align="center">Welcome to PREMIUM INVESTMENT, CHANDRAPUR, MAHARASHTRA </h1>
-<h1 align="center"> Premium Investment is  Very Good and Best Broking center for Investor and Traders. Also provide good tips and new srtategy </h1>
+<h1 align="center"> Premium Investment is  Very Good and Best Broking center for Investor and Traders. Also provide good tips and new Strategy </h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
