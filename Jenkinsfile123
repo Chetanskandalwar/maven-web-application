@@ -17,7 +17,7 @@ try{
 slackNotifications('STARTED')
 
 stage('CheckOutCode'){
-git branch: 'development', credentialsId: 'fb6eb166-cc04-4905-8c7a-ec8f9bd20e1d', url: 'https://github.com/Chetanskandalwar/maven-web-application.git'
+git branch: 'developmentt', credentialsId: 'fb6eb166-cc04-4905-8c7a-ec8f9bd20e1d', url: 'https://github.com/Chetanskandalwar/maven-web-application.git'
 }
 
 stage('Build'){
