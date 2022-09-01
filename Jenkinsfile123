@@ -39,6 +39,14 @@ sshagent(['956026fc-100c-4a71-9175-a043f135c6b5']) {
 */
 
 }//try block closing
+catch (e){
+slackNotifications(currentBuild.result)
+throw e
+}
+finally{
+slackNotifications(currentBuild.result)
+}
+
 
 }//Node closing
 
